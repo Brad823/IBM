@@ -1,0 +1,33 @@
+﻿Borough,Local authority,Political Control,Area sq_miles,Population,Latitude,Longitude,
+Barking and Dagenham,Barking and Dagenham London Borough Council,Labour,13.93,194352,51.5607, 0.1557,13952.04594
+Barnet,Barnet London Borough Council,Conservative,33.49,369088,51.6252,-0.1517,11020.84204
+Bexley,Bexley London Borough Council,Conservative,23.38,236687,51.4549, 0.1505,10123.48161
+Brent,Brent London Borough Council,Labour,16.7,317264,51.5588,-0.2817,18997.84431
+Bromley,Bromley London Borough Council,Conservative,57.97,317899,51.4039, 0.0198,5483.853717
+Camden,Camden London Borough Council,Labour,8.4,229719,51.5290,-0.1255,27347.5
+Croydon,Croydon London Borough Council,Labour,33.41,372752,51.3714,-0.0977,11156.89913
+Ealing,Ealing London Borough Council,Labour,21.44,342494,51.5130,-0.3089,15974.53358
+Enfield,Enfield London Borough Council,Labour,31.74,320524,51.6538,-0.0799,10098.4247
+Greenwich,Greenwich London Borough Council,Labour,18.28,264008,51.4892, 0.0648,14442.45077
+Hackney,Hackney London Borough Council,Labour,7.36,257379,51.5450,-0.0553,34969.97283
+Hammersmith and Fulham,Hammersmith and Fulham London Borough Council,Labour,6.33,178685,51.4927,-0.2339,28228.27804
+Haringey,Haringey London Borough Council,Labour,11.42,263386,51.6000,-0.1119,23063.57268
+Harrow,Harrow London Borough Council,Labour,19.49,243372,51.5898,-0.3346,12487.01898
+Havering,Havering London Borough Council,Conservative,43.35,242080,51.5812, 0.1837,5584.313725
+Hillingdon,Hillingdon London Borough Council,Conservative,44.67,286806,51.5441,-0.476,6420.550705
+Hounslow,Hounslow London Borough Council,Labour,21.61,262407,51.4746,-0.368,12142.85053
+Islington,Islington London Borough Council,Labour,5.74,215667,51.5416,-0.1022,37572.64808
+Kensington and Chelsea,Kensington and Chelsea London Borough Council,Conservative,4.68,155594,51.5020,-0.1947,33246.5812
+Kingston upon Thames,Kingston upon Thames London Borough Council,Liberal Democrat,14.38,166793,51.4085,-0.3064,11598.95688
+Lambeth,Lambeth London Borough Council,Labour,10.36,314242,51.4607,-0.1163,30332.23938
+Lewisham,Lewisham London Borough Council,Labour,13.57,286180,51.4452,-0.0209,21089.16728
+Merton,Merton London Borough Council,Labour,14.52,203223,51.4014,-0.1958,13996.07438
+Newham,Newham London Borough Council,Labour,13.98,318227,51.5077, 0.0469,22763.0186
+Redbridge,Redbridge London Borough Council,Labour,21.78,288272,51.5590, 0.0741,13235.62902
+Richmond upon Thames,Richmond upon Thames London Borough Council,Liberal Democrat,22.17,191365,51.4479,-0.326,8631.709517
+Southwark,Southwark London Borough Council,Labour,11.14,298464,51.5035,-0.0804,26792.10054
+Sutton,Sutton London Borough Council,Liberal Democrat,16.93,195914,51.3618,-0.1945,11572.00236
+Tower Hamlets,Tower Hamlets London Borough Council,Labour,7.63,272890,51.5099,-0.0059,35765.39974
+Waltham Forest,Waltham Forest London Borough Council,Labour,14.99,265797,51.5908,-0.0134,17731.62108
+Wandsworth,Wandsworth London Borough Council,Conservative,13.23,310516,51.4567,-0.191,23470.59713
+Westminster,Westminster City Council,Conservative,8.29,226841,51.4973,-0.1372,27363.20869
